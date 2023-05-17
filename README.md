@@ -11,8 +11,8 @@ You can see my product in [VIRUSTOTAL](https://www.virustotal.com/gui/file/8e8d4
 
 # SETUP
 1. Download the lastest version of Python [here](https://www.python.org/downloads/release/python-31011/)
-2. Download `mysql-table-checker.py` file,
-3. Open `mysql-table-checker.py` file.
+2. Download `mysql-table-checker.exe` file,
+3. Open `mysql-table-checker.exe` file.
 
 # HOW TO USE?
 1. Do setup,
